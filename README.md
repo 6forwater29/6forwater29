@@ -11,7 +11,7 @@
 📢: [Personal acadamic website](https://chenyihan.netlify.app/)  
 
 ## Open Source Experience 🎏
-[Chat甄嬛](https://github.com/LLLM-Lab/xfg-huanhuan): A chat robot based on ChatGLM2 likes Zhenhuan.  
+[Chat甄嬛](https://github.com/LLLM-Lab/xfg-huanhuan): A chat robot based on ChatGLM2 using Zhenhuan.  
 [DeepLearning.AI 中文课程](https://github.com/datawhalechina/prompt-engineering-for-developers): A Chinese tutorial of ChatGPT for Developers, contains classes of AndrewNg.  
 
 ## Github  Stats 📈
