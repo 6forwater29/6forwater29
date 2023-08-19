@@ -2,6 +2,8 @@
    Welcome to Random Chen's Demo World
 </h1>
 
+![四姑娘山](https://github.com/6forwater29/6forwater29/blob/main/travel.jpg)
+
 ## about me 👋
 👀: I am Yihan Chen, a master's student from Beijing University of Posts and Communications, School of Economics and Management, major in Business Administration.  
 🔥: A constant learner and explorer, enthusiastic about data analysis (ML, LLMs, Bayesian Statistics and etc.) and fields related to Strategy, especially organizational learning, decision-making and etc.  
