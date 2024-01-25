@@ -8,7 +8,7 @@
 👀: I am Yihan Chen, a master's student from Beijing University of Posts and Communications, School of Economics and Management, major in Business Administration.  
 🔥: A constant learner and explorer, enthusiastic about data analysis (ML, LLMs, Bayesian Statistics and etc.) and fields related to Strategy, especially organizational learning, decision-making and etc.  
 📫: [1450620249@qq.com](1450620249@qq.com)  
-📢: [Personal acadamic website](https://chenyihan.netlify.app/)  
+📢: [Personal acadamic website](https://www.notion.so/Academic-Homepage-3ebed0a903f7478b9c6049d610b7f5cd)  
 
 ## Open Source Experience 🎏
 [Chat甄嬛](https://github.com/LLLM-Lab/xfg-huanhuan): A chat robot based on ChatGLM2 using Zhenhuan.  
